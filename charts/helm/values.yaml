@@ -2,7 +2,7 @@ replicaCount: 2
 image:
   pullPolicy: IfNotPresent
   repository: 117966617609.dkr.ecr.us-east-1.amazonaws.com/byod-demo
-  version: main-c341664
+  version: main-ccbac58
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
